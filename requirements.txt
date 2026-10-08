@@ -1,0 +1,2 @@
+# Nenhuma dependencia externa. O servidor fala JSON-RPC 2.0 direto no stdio.
+# Nao rode pip para usar este MCP. A logica esta em ../tools.
